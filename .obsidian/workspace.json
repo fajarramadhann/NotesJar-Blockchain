@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75d9cda9c7d28929",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md"
               }
             }
           },
@@ -172,8 +182,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "469f60ed3ee40497",
+  "active": "75d9cda9c7d28929",
   "lastOpenFiles": [
+    "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+    "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
     "Task TODOOO!!!!.md",
     "Welcome.md",
     "Untitled.md",
@@ -184,7 +196,6 @@
     "2024-09-11.md",
     "Fundamentals/What is Blockchain.md",
     "Excalidraw/Concept Blockchain.md",
-    "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "TODOOO!!!! 12-9-2024.md",
     "BlockDevId x Pelita Bangsa",
     "Excalidraw",
