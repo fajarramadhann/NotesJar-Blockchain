@@ -35,9 +35,11 @@
             "id": "75d9cda9c7d28929",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md"
+                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
+                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
+                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md"
+                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md"
               }
             }
           },
@@ -184,17 +186,17 @@
   },
   "active": "75d9cda9c7d28929",
   "lastOpenFiles": [
-    "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+    "Fundamentals/What is Blockchain.md",
+    "Fundamentals/What is Ethereum.md",
+    "Post2Earn.md",
     "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
+    "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "Task TODOOO!!!!.md",
     "Welcome.md",
     "Untitled.md",
     "README.md",
-    "Post2Earn.md",
-    "Fundamentals/What is Ethereum.md",
     "create a link.md",
     "2024-09-11.md",
-    "Fundamentals/What is Blockchain.md",
     "Excalidraw/Concept Blockchain.md",
     "TODOOO!!!! 12-9-2024.md",
     "BlockDevId x Pelita Bangsa",
