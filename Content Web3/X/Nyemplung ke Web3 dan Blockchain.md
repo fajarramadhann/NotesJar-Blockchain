@@ -13,7 +13,7 @@ Ada beberapa basic yang wajib kalian pelajari, kalian bisa liat gambar dibawah
 
 Kalau kalian tertarik gw bakal bahas lebih lanjut untuk setiap materinya, dan yang pasti mudah dimengerti.
 
-Langkah kedua yang gua lakuin adalah research di Web3 & Blockhain ini role pekerjaan nya ada apa aja? karena Web3 & Blockchain ini ga cuma trading crypto aja ya.
+Langkah kedua yang gua lakuin adalah research di Web3 & Blockhain ini role pekerjaannya ada apa aja? karena Web3 & Blockchain ini ga hanya cuma trading crypto aja.
 
 Setelah gw tau role role tersebut gua coba pilih salah satu role yang menurut gw cocok dan sesuai dengan background gw, karena background gw IT jadi gw pilih buat jadi Developer Web3 atau Smart Contract
 
