@@ -11,6 +11,8 @@ Ada beberapa basic yang wajib kalian pelajari, seperti apa itu Blockchain dan ca
 
 Kalau kalian tertarik gw bakal bahas hal hal basic ini dengan bahasa yang mudah dimengerti.
 
+
+
 Hal pertama yang gua lakuin adalah research di Web3 & Blockhain ini role nya ada apa aja? karena Web3 & Blockchain ini ga cuma trading crypto aja ya.
 
 Setelah gw tau role role tersebut gua coba pilih salah satu role yang menurut gw cocok dan sesuai dengan background gw, karena background gw IT jadi gw pilih buat jadi Developer Web3 atau Smart Contract
