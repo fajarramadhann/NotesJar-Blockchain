@@ -5,7 +5,7 @@ Gw bakal share apa aja yang gw lakuin ketika pertama kali nyemplung ke dunia Web
 
 A thread
 
-1️⃣  Hal pertama yang gw lakuin adalah belajar basic fundamental Web3 & Blockchain, karena semua role dibidang ini wajib banget paham basicnya.
+1️⃣  Hal pertama yang gw lakuin adalah belajar basic tentang Web3 & Blockchain, karena semua role dibidang ini wajib banget paham basicnya.
 
 Ada beberapa basic yang wajib kalian pelajari, seperti apa itu Blockchain dan cara kerjanya, apa itu Web3 dan apa bedanya dengan Web2, Apa itu Smart Contract, dll.
 
