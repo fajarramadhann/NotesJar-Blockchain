@@ -55,11 +55,17 @@
             "id": "a73163636e022dae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
-                "mode": "source",
-                "source": false
+                "file": "Task TVONE.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -130,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
+                "file": "Task TVONE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
+                "file": "Task TVONE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md"
+                "file": "Task TVONE.md"
               }
             }
           },
@@ -206,12 +212,12 @@
   },
   "active": "a73163636e022dae",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
+    "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
+    "Task TVONE.md",
     "Untitled.md",
     "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 16.42.41.excalidraw.md",
     "Excalidraw/Concept Blockchain.md",
-    "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
     "Research Sosmed/X/Jam posting.md",
     "Research Sosmed/X",
     "Research Sosmed",
