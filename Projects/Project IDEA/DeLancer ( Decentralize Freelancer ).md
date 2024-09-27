@@ -1,0 +1,1 @@
+**DeLancer** adalah platform pasar freelance berbasis Blockchain yang dimana menggunakan system decentralized 
