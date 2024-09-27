@@ -12,10 +12,14 @@ kanban-plugin: board
 
 
 
+## Finish
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
