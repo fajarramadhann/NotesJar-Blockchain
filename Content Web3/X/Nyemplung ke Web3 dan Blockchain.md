@@ -1,4 +1,4 @@
-### Thread 1
+
 
 Buat lo yang bingung mulai darimana di Web3!!
 Sering banget liat di komentar X, komunitas, dll banyak banget yg pengen masuk ke dunia Web3&Blockchain ini, tapi rata rata masih bingung harus mulai dari mana.
@@ -7,7 +7,6 @@ Gw bakal share apa aja yang gw lakuin ketika pertama kali nyemplung ke dunia Web
 
 A thread
 
-### Thread 2
 Hal pertama yang gua lakuin adalah research di Web3 & Blockhain ini role nya ada apa aja? karena Web3 & Blockchain ini ga cuma trading crypto aja ya.
 
 Setelah gw tau role role tersebut gua coba pilih salah satu role yang menurut gw cocok dan sesuai dengan background gw, karena background gw IT jadi gw pilih buat jadi Developer Web3 atau Smart Contract
