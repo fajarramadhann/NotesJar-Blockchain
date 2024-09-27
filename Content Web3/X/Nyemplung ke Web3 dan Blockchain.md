@@ -9,7 +9,7 @@ A thread
 
 Ada beberapa basic yang wajib kalian pelajari, seperti apa itu Blockchain dan cara kerjanya, apa itu Web3 dan apa bedanya dengan Web2, Apa itu Smart Contract, dll.
 
-Kalau kalian mau gua bakal bahas hal hal basic ini
+Kalau kalian tertarik gw bakal bahas hal hal basic ini dengan bahasa yang mudah dimengerti.
 
 Hal pertama yang gua lakuin adalah research di Web3 & Blockhain ini role nya ada apa aja? karena Web3 & Blockchain ini ga cuma trading crypto aja ya.
 
