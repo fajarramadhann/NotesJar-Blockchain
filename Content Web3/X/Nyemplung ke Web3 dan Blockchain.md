@@ -5,6 +5,8 @@ Gw bakal share apa aja yang gw lakuin ketika pertama kali nyemplung ke dunia Web
 
 A thread
 
+1️⃣ 
+
 Hal pertama yang gua lakuin adalah research di Web3 & Blockhain ini role nya ada apa aja? karena Web3 & Blockchain ini ga cuma trading crypto aja ya.
 
 Setelah gw tau role role tersebut gua coba pilih salah satu role yang menurut gw cocok dan sesuai dengan background gw, karena background gw IT jadi gw pilih buat jadi Developer Web3 atau Smart Contract
