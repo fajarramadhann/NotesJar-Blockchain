@@ -45,9 +45,11 @@
             "id": "2865e7d188100301",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md"
+                "file": "Content Web3/X/Content Plan.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
+                "file": "Content Web3/X/Content Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
+                "file": "Content Web3/X/Content Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md"
+                "file": "Content Web3/X/Content Plan.md"
               }
             }
           },
@@ -194,6 +196,8 @@
   },
   "active": "2865e7d188100301",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
+    "Content Web3/X/Content Plan.md",
     "basic-1.png",
     "Projects/Post2Earn.md",
     "Projects/Project IDEA/IDEA.md",
@@ -207,7 +211,6 @@
     "TODOOO!!!! 12-9-2024.md",
     "Fundamentals/What is Ethereum.md",
     "Fundamentals/What is Blockchain.md",
-    "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
     "Excalidraw/Concept Blockchain.md",
     "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "Untitled.md",
