@@ -50,19 +50,9 @@
                 "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "1b247e728d9a0051",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 16.42.41.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 16.42.41.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 16.42.41.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 16.42.41.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md"
               }
             }
           },
@@ -202,10 +192,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1b247e728d9a0051",
+  "active": "2865e7d188100301",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 16.42.41.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
     "Excalidraw/Concept Blockchain.md",
     "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
     "Research Sosmed/X/Jam posting.md",
