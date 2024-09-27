@@ -7,7 +7,7 @@ A thread
 
 1️⃣  Hal pertama yang gua lakuin adalah belajar basic fundamental Web3 dan Blockchain, karena semua role dibidang ini wajib banget paham basic fundamentalnya.
 
-Ada beberapa basic yang wajib kalian pelajari, seperti 
+Ada beberapa basic yang wajib kalian pelajari, seperti apa itu Blockchain dan cara kerj
 
 Hal pertama yang gua lakuin adalah research di Web3 & Blockhain ini role nya ada apa aja? karena Web3 & Blockchain ini ga cuma trading crypto aja ya.
 
