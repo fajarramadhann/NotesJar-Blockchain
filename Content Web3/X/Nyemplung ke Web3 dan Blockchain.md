@@ -1,7 +1,7 @@
 ### Thread 1
 
-Buat lo yang binung
-Sering banget liat di komentar tweet, komunitas, dll banyak banget yg pengen nyemplung ke dunia Web3&Blockchain ini, tapi rata rata bingung harus mulai dari mana.
+Buat lo yang bingung mulai darimana di Web3!!
+Sering banget liat di komentar X, komunitas, dll banyak banget yg pengen masuk ke dunia Web3&Blockchain ini, tapi rata rata masih bingung harus mulai dari mana.
 
 Gw bakal share apa aja yang gw lakuin ketika pertama kali nyemplung ke dunia Web3&Blokchain ini
 
