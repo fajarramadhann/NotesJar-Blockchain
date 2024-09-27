@@ -7,7 +7,9 @@ A thread
 
 1️⃣  Hal pertama yang gw lakuin adalah belajar basic tentang Web3 & Blockchain, karena semua role dibidang ini wajib banget paham basicnya.
 
-Ada beberapa basic yang wajib kalian pelajari, seperti apa itu Blockchain dan cara kerjanya, apa itu Web3 dan apa bedanya dengan Web2, Apa itu Smart Contract, dll.
+Ada beberapa basic yang wajib kalian pelajari, kalian bisa liat gambar dibawah
+
+[]()
 
 Kalau kalian tertarik gw bakal bahas hal basic ini dengan bahasa yg mudah dimengerti.
 
