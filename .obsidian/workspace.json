@@ -57,7 +57,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Task TVONE.md",
+                "file": "Task TODOOO!!!!.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task TVONE.md",
+                "file": "Task TODOOO!!!!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task TVONE.md",
+                "file": "Task TODOOO!!!!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task TVONE.md"
+                "file": "Task TODOOO!!!!.md"
               }
             }
           },
@@ -213,8 +213,9 @@
   "active": "a73163636e022dae",
   "lastOpenFiles": [
     "TODOOO!!!! 12-9-2024.md",
-    "Fundamentals/What is Ethereum.md",
     "Task TODOOO!!!!.md",
+    "Task TVONE.md",
+    "Fundamentals/What is Ethereum.md",
     "Fundamentals/What is Blockchain.md",
     "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
     "Excalidraw/Concept Blockchain.md",
@@ -223,7 +224,6 @@
     "Untitled.md",
     "Post2Earn.md",
     "README.md",
-    "Task TVONE.md",
     "Excalidraw/Drawing 2024-09-27 16.42.41.excalidraw.md",
     "Research Sosmed/X/Jam posting.md",
     "Research Sosmed/X",
