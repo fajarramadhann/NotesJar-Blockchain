@@ -9,7 +9,7 @@ A thread
 
 Ada beberapa basic yang wajib kalian pelajari, kalian bisa liat gambar dibawah
 
-[]()
+[![[basic-1.png]]]()
 
 Kalau kalian tertarik gw bakal bahas lebih lanjut untuk setiap materinya, dan yang pasti mudah dimengerti.
 

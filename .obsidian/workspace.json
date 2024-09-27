@@ -55,17 +55,11 @@
             "id": "a73163636e022dae",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task TODOOO!!!!.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -136,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task TODOOO!!!!.md",
+                "file": "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task TODOOO!!!!.md",
+                "file": "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task TODOOO!!!!.md"
+                "file": "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md"
               }
             }
           },
@@ -212,8 +206,9 @@
   },
   "active": "a73163636e022dae",
   "lastOpenFiles": [
-    "Task TVONE.md",
+    "basic-1.png",
     "Task TODOOO!!!!.md",
+    "Task TVONE.md",
     "TODOOO!!!! 12-9-2024.md",
     "Fundamentals/What is Ethereum.md",
     "Fundamentals/What is Blockchain.md",
