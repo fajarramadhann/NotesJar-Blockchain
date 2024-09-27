@@ -50,9 +50,26 @@
                 "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "a73163636e022dae",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
+                "file": "Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md"
+                "file": "Untitled Kanban.md"
               }
             }
           },
@@ -192,10 +209,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2865e7d188100301",
+  "active": "a73163636e022dae",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-27 16.42.41.excalidraw.md",
+    "Untitled.md",
+    "Untitled Kanban.md",
     "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-27 16.42.41.excalidraw.md",
     "Excalidraw/Concept Blockchain.md",
     "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
     "Research Sosmed/X/Jam posting.md",
