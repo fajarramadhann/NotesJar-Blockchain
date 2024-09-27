@@ -11,7 +11,7 @@ Ada beberapa basic yang wajib kalian pelajari, kalian bisa liat gambar dibawah
 
 []()
 
-Kalau kalian tertarik gw bakal bahas lebih lanjut untu .
+Kalau kalian tertarik gw bakal bahas lebih lanjut untuk setiap materinya, dan yang pasti mudah dimengerti.
 
 
 
