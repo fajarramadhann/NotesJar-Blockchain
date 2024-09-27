@@ -1,1 +1,1 @@
-1. **Simply Explain Series**: Basic Blockchain, Smart COntract
+1. **Simply Explain Series**: Basic Blockchain, Smart Contract, Web3, konsensus mekanisme, hashing, Decentralized, Node, korelasi web3 dan blockchain, 
