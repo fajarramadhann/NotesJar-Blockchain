@@ -55,11 +55,17 @@
             "id": "a73163636e022dae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Post2Earn.md",
-                "mode": "source",
-                "source": false
+                "file": "Task TVONE.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -130,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post2Earn.md",
+                "file": "Task TVONE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post2Earn.md",
+                "file": "Task TVONE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post2Earn.md"
+                "file": "Task TVONE.md"
               }
             }
           },
@@ -204,29 +210,29 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "469f60ed3ee40497",
+  "active": "a73163636e022dae",
   "lastOpenFiles": [
-    "README.md",
-    "Task TVONE.md",
+    "TODOOO!!!! 12-9-2024.md",
+    "Fundamentals/What is Ethereum.md",
+    "Task TODOOO!!!!.md",
+    "Fundamentals/What is Blockchain.md",
+    "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
+    "Excalidraw/Concept Blockchain.md",
+    "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
+    "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "Untitled.md",
     "Post2Earn.md",
-    "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
-    "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
+    "README.md",
+    "Task TVONE.md",
     "Excalidraw/Drawing 2024-09-27 16.42.41.excalidraw.md",
-    "Excalidraw/Concept Blockchain.md",
     "Research Sosmed/X/Jam posting.md",
     "Research Sosmed/X",
     "Research Sosmed",
     "Content Web3/X",
     "Content Web3",
-    "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
-    "Fundamentals/What is Blockchain.md",
-    "Fundamentals/What is Ethereum.md",
-    "Task TODOOO!!!!.md",
     "Welcome.md",
     "create a link.md",
     "2024-09-11.md",
-    "TODOOO!!!! 12-9-2024.md",
     "BlockDevId x Pelita Bangsa",
     "Excalidraw",
     "Fundamentals"
