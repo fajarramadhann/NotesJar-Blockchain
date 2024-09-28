@@ -1,1 +1,1 @@
-Dihari pertama 
+Dihari pertama gw pengen belajar lebih dalam tentang Web3 dan Blockchain gw bingung banget
