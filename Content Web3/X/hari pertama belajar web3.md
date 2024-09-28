@@ -1,1 +1,0 @@
-Dihari pertama gw pengen belajar lebih dalam tentang Web3 dan Blockchain gw bingung banget!! sebelumnya gua cuma sekedar tau aja tanpa tau pasti apa maksudnya

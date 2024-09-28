@@ -1,0 +1,1 @@
+1/ 🔥 _Dari cuma ikut-ikutan Airdrop Crypto pas COVID, sekarang gue malah nyemplung serius di Web3 & Blockchain!_ Mulainya random, tapi sekarang gue paham kenapa teknologi ini penting banget. Gue share pengalaman gue belajar dari nol! #LetsLearn2gether
