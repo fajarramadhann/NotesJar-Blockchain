@@ -3,4 +3,4 @@
 3. Deep Dive on Web3 and Blockchain
 4. Tools and Protocols Web3
 5. Study Case Best Practice
-6. 
+6. **Blockchain Scalability**: Masalah scalability yang lagi dihadapi blockchain sekarang dan teknologi yang lagi di-develop buat solve masalah ini.
