@@ -1,1 +1,3 @@
 1/ 🔥 _Dari cuma ikut-ikutan Airdrop Crypto pas COVID, sekarang gue malah nyemplung serius di Web3 & Blockchain!_ Mulainya random, tapi sekarang gue paham kenapa teknologi ini penting banget. Gue share pengalaman gue belajar dari nol! #LetsLearn2gether
+
+2/ Di awal, gua juga bingung sama semua istilah kayak Web3, Blockchain, Crypto, dll. Tapi Agustus 2024, pas airdrop **$DOGS** listing, gua dapet cuan buat ganti laptop. Itu jadi titik balik buat gua serius belajar lebih dalam. 😎
