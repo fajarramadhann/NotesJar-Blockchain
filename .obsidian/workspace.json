@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f95dfe14c9e7b993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content Web3/X/awal mula belajar web3.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content Web3/X/awal mula belajar web3.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content Web3/X/awal mula belajar web3.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -194,12 +206,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2865e7d188100301",
+  "active": "f95dfe14c9e7b993",
   "lastOpenFiles": [
+    "Content Web3/X/awal mula belajar web3.md",
+    "Untitled 1.md",
     "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
     "Content Web3/X/Kenapa Blockchain bisa jadi Populer dan gimana awal mulanya.md",
     "Content Web3/X/Content Plan.md",
-    "Content Web3/X/awal mula belajar web3.md",
     "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
     "basic-1.png",
     "Projects/Post2Earn.md",
