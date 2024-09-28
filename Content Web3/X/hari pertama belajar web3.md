@@ -1,0 +1,1 @@
+Dihari pertama 
