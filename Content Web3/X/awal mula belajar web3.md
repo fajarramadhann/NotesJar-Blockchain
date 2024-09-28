@@ -18,4 +18,4 @@
 
 8/ Sekarang, gua lagi belajar bikin Smart Contract dan dApps pake Motoko di jaringan ICP. Journey belajar Web3 & Blockchain gua baru aja dimulai, dan gua bakal terus sharing!
 
-9/ Mau ngikutin perjalanan belajar gua? Gue sering share insight dan progress di sini 👉 [`@fajarr0x`](https://x.com/fajarr0x) #Web3 #Blockchain #ICP #Motoko #LetsLearn2gether
+9/ Mau ngikutin perjalanan belajar gua? Gue bakal sering share insight dan progress di akun twitter ini 👉 [`@fajarr0x`](https://x.com/fajarr0x) jadi jangan lupa follow biar ga ketinggalan sharing terbaru dari gua🔥 #Web3 #Blockchain #ICP #Motoko #LetsLearn2gether
