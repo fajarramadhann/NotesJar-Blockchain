@@ -5,3 +5,8 @@ Layer 2 = Base
 - Untuk transfer token dan menyimpan data
 - punya banyak jaringan
 - Terbentuk dari 1 atau banyak nodes
+
+### EVM Account Types
+- Externally owned Account (EOA)
+		seperti Metamask, Trust Wallet, Phantom, dll
+-
