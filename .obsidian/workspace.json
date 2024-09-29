@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web3 Indive Workshop/Web Indive Workshop.md",
+                "file": "Web3 Indive Event/Web Indive Workshop.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web3 Indive Workshop/Web Indive Workshop.md",
+                "file": "Web3 Indive Event/Web Indive Workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web3 Indive Workshop/Web Indive Workshop.md",
+                "file": "Web3 Indive Event/Web Indive Workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web3 Indive Workshop/Web Indive Workshop.md"
+                "file": "Web3 Indive Event/Web Indive Workshop.md"
               }
             }
           },
@@ -206,11 +206,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f95dfe14c9e7b993",
+  "active": "469f60ed3ee40497",
   "lastOpenFiles": [
     "Untitled 1.md",
-    "Web3 Indive Workshop/Web Indive Workshop.md",
-    "Web3 Indive Workshop",
+    "Web3 Indive Event/Web Indive Workshop.md",
+    "Web3 Indive Event",
     "Content Web3/X/Hasil semalam ngobrol bareng GadoGado Web3.md",
     "Content Web3/X/Kenapa Blockchain bisa jadi Populer dan gimana awal mulanya.md",
     "Research Sosmed/X/Jam posting.md",
