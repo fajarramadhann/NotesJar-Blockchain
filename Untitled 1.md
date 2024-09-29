@@ -3,4 +3,4 @@ dapet role di server discord bisa dimasukin ke CV
 
 
 
-create infographic after learn something
+create infographic after learn something or make it visual
