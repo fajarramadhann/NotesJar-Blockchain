@@ -21,5 +21,8 @@ Layer 2 = Base, dll
 		- storage
 		- code
 
+#### Smart Contract Account
+
+
 
 
