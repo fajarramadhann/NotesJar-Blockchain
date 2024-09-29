@@ -25,7 +25,9 @@ Layer 2 = Base, dll
 
 kemauan
 fe pake react
-sc solidity
+smart contract solidity di jaringan EVM
+backend nya web3: nextjs
+db off chain
 
 
 
