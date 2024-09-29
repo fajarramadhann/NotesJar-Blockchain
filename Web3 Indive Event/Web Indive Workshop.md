@@ -23,6 +23,9 @@ Layer 2 = Base, dll
 
 
 
+kemauan
+fe pake react
+sc solidity
 
 
 
