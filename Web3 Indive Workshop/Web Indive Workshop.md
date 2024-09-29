@@ -15,4 +15,11 @@ Layer 2 = Base
 		- private key
 - SC Account 
 		Dijalankan secara otomatis oleh kode ketika ada trigger
-		- Bisa trigger SC lain
+		Bisa trigger SC lain
+		- Acc address
+		- balance
+		- storage
+		- code
+
+
+
