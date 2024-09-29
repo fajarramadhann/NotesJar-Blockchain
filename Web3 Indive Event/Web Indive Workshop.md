@@ -15,13 +15,15 @@ Layer 2 = Base, dll
 		- private key
 - Smart Contract Account 
 		Dijalankan secara otomatis oleh kode ketika ada trigger
-		Bisa trigger SC lain
+		Bisa trigger Smart Contract lain
 		- Acc address
 		- balance
 		- storage
 		- code
 
-#### Smart Contract Account
+
+Web3 FLow
+submit form -> web3 library generate transaction object -> transaction je
 
 
 
