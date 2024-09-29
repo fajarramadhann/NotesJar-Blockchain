@@ -7,13 +7,13 @@ Layer 2 = Base, dll
 - Terbentuk dari 1 atau banyak nodes
 
 ### EVM Account Types
-- Externally owned Account (EOA)
+- Externally owned account (EOA)
 		seperti Metamask, Trust Wallet, Phantom, dll
 		- account address
 		- balance
 		- pub key
 		- private key
-- SC Account 
+- Smart Contract Account 
 		Dijalankan secara otomatis oleh kode ketika ada trigger
 		Bisa trigger SC lain
 		- Acc address
