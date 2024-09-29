@@ -3,7 +3,7 @@ Semalam di AMA GadoGado Web3 gw nanya "Kalo belum punya pengalaman dan portfolio
 
 Penasaran apa jawabannya? gass baca thread ini
 
-Kalo kalian sering aktif di suatu komunitas bisa dimasukin ke CV aja bahwa kalian sering aktif di komunitas tersebut.
+Kalo sering aktif di suatu komunitas bisa dimasukin ke CV  bahwa kalian sering aktif di komunitas tersebut.
 
 Kalo kalian belum punya portfolio, coba bikin content di X buat dijadiin portfolio, buat konten yang sesuai dengan niche kita
 
