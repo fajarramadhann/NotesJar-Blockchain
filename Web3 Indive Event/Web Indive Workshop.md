@@ -22,8 +22,6 @@ Layer 2 = Base, dll
 		- code
 
 
-Web3 FLow
-submit form -> web3 library generate transaction object -> transaction je
 
 
 
