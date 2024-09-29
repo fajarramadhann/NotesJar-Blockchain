@@ -1,5 +1,5 @@
 Layer 1 = ETH, BTC, Solana
-Layer 2 = Base
+Layer 2 = Base, dll
 
 ### EVM Network
 - Untuk transfer token dan menyimpan data
