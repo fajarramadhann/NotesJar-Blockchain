@@ -1,5 +1,7 @@
 
-Semalam AMA GadoGadKalo belum punya pengalaman dan portfolio terus pengen apply job di web3 sebagai moderator atau ambassador gimana?
+Semalam di AMA GadoGado Web3 gw nanya "Kalo belum punya pengalaman dan portfolio terus pengen apply job di web3 sebagai moderator atau ambassador gimana?"
+
+Penasaran apa jawabannya? gass baca thread ini
 
 Kalo kalian sering aktif di suatu komunitas bisa dimasukin ke CV aja bahwa kalian sering aktif di komunitas tersebut.
 
