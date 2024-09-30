@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web3 Indive Event/Web Indive Workshop.md",
+                "file": "Fundamentals/What is Blockchain.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web3 Indive Event/Web Indive Workshop.md",
+                "file": "Fundamentals/What is Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web3 Indive Event/Web Indive Workshop.md",
+                "file": "Fundamentals/What is Blockchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web3 Indive Event/Web Indive Workshop.md"
+                "file": "Fundamentals/What is Blockchain.md"
               }
             }
           },
@@ -184,9 +184,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "469f60ed3ee40497",
+  "active": "75d9cda9c7d28929",
   "lastOpenFiles": [
     "Task TODOOO!!!!.md",
+    "Projects",
+    "Fundamentals/What is Blockchain.md",
+    "Fundamentals/What is Ethereum.md",
+    "Web3 Indive Event/Web Indive Workshop.md",
     "README.md",
     "basic-1.png",
     "DO THIS!!!!.md",
@@ -200,7 +204,6 @@
     "Content Web3/X/awal mula belajar web3.md",
     "Content Web3/X/Kenapa Blockchain bisa jadi Populer dan gimana awal mulanya.md",
     "Content Web3/X/Content Plan.md",
-    "Web3 Indive Event/Web Indive Workshop.md",
     "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "Web3 Indive Event",
     "Research Sosmed/X/Jam posting.md",
@@ -210,11 +213,8 @@
     "Projects/Project IDEA/DeGive.md",
     "Projects/Project IDEA/DeLancer ( Decentralize Freelancer ).md",
     "Projects/Project IDEA",
-    "Projects",
     "Task TVONE.md",
     "TODOOO!!!! 12-9-2024.md",
-    "Fundamentals/What is Ethereum.md",
-    "Fundamentals/What is Blockchain.md",
     "Research Sosmed/X",
     "Research Sosmed",
     "Content Web3/X",
