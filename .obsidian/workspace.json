@@ -69,17 +69,11 @@
             "id": "e45720c1d75ee996",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "DO THIS!!!!.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Content Web3/X/Content Plan.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -150,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DO THIS!!!!.md",
+                "file": "Content Web3/X/Content Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DO THIS!!!!.md",
+                "file": "Content Web3/X/Content Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DO THIS!!!!.md"
+                "file": "Content Web3/X/Content Plan.md"
               }
             }
           },
@@ -226,20 +220,20 @@
   },
   "active": "e45720c1d75ee996",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Content Web3/X/awal mula belajar web3.md",
+    "Content Web3/X/20 istilah web3 blockchain.md",
     "DO THIS!!!!.md",
+    "Untitled 1.md",
     "Task TODOOO!!!!.md",
     "README.md",
     "phrase wallet ton.md",
     "basic-1.png",
     "Web3 Indive Event/Web Indive Workshop.md",
-    "Content Web3/X/20 istilah web3 blockchain.md",
     "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
     "Content Web3/X/Kenapa Web3 beda dari Web2..md",
     "Content Web3/X/Kenapa Blockchain bisa jadi Populer dan gimana awal mulanya.md",
     "Content Web3/X/Hasil semalam ngobrol bareng GadoGado Web3.md",
     "Content Web3/X/Content Plan.md",
-    "Content Web3/X/awal mula belajar web3.md",
     "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "Web3 Indive Event",
     "Research Sosmed/X/Jam posting.md",
