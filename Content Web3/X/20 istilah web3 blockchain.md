@@ -52,6 +52,8 @@ Airdrop itu bagi-bagi token gratis dari proyek kripto buat promosi atau ngasih h
 1️⃣8️⃣ **Cryptocurrency**  
 Cryptocurrency itu uang digital yang bisa kamu kirim atau terima tanpa perlu perantara seperti bank. Transaksinya aman karena dicatat di blockchain, dan kamu bisa pake buat banyak hal, mulai dari investasi, trading, sampai beli barang di dunia nyata atau virtual. Contoh paling terkenal? Bitcoin dan Ethereum!
 
+
+
 1️⃣9️⃣ **Consensus Mechanism**  
 Ini cara buat jaringan blockchain sepakat soal transaksi yang sah. Ada beberapa metode kayak PoW dan PoS yang menentukan gimana transaksi divalidasi.
 
