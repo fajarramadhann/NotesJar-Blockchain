@@ -69,11 +69,15 @@
             "id": "e45720c1d75ee996",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Content Web3/X/20 istilah web3 blockchain.md",
-                "mode": "source",
-                "source": false
+                "file": "DO THIS!!!!.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
               }
             }
           }
@@ -144,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content Web3/X/20 istilah web3 blockchain.md",
+                "file": "DO THIS!!!!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content Web3/X/20 istilah web3 blockchain.md",
+                "file": "DO THIS!!!!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content Web3/X/20 istilah web3 blockchain.md"
+                "file": "DO THIS!!!!.md"
               }
             }
           },
@@ -220,40 +224,40 @@
   },
   "active": "e45720c1d75ee996",
   "lastOpenFiles": [
-    "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
+    "Untitled 1.md",
+    "DO THIS!!!!.md",
+    "Task TODOOO!!!!.md",
+    "README.md",
+    "phrase wallet ton.md",
+    "basic-1.png",
+    "Web3 Indive Event/Web Indive Workshop.md",
     "Content Web3/X/20 istilah web3 blockchain.md",
+    "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
     "Content Web3/X/Kenapa Web3 beda dari Web2..md",
     "Content Web3/X/Kenapa Blockchain bisa jadi Populer dan gimana awal mulanya.md",
     "Content Web3/X/Hasil semalam ngobrol bareng GadoGado Web3.md",
     "Content Web3/X/Content Plan.md",
     "Content Web3/X/awal mula belajar web3.md",
-    "phrase wallet ton.md",
     "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
-    "Untitled 1.md",
-    "Web3 Indive Event/Web Indive Workshop.md",
     "Web3 Indive Event",
     "Research Sosmed/X/Jam posting.md",
     "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
-    "basic-1.png",
     "Projects/Post2Earn.md",
     "Projects/Project IDEA/IDEA.md",
     "Projects/Project IDEA/DeGive.md",
     "Projects/Project IDEA/DeLancer ( Decentralize Freelancer ).md",
     "Projects/Project IDEA",
     "Projects",
-    "Task TODOOO!!!!.md",
     "Task TVONE.md",
     "TODOOO!!!! 12-9-2024.md",
     "Fundamentals/What is Ethereum.md",
     "Fundamentals/What is Blockchain.md",
     "Excalidraw/Concept Blockchain.md",
-    "README.md",
     "Excalidraw/Drawing 2024-09-27 16.42.41.excalidraw.md",
     "Research Sosmed/X",
     "Research Sosmed",
     "Content Web3/X",
     "Content Web3",
-    "Welcome.md",
     "BlockDevId x Pelita Bangsa",
     "Excalidraw",
     "Fundamentals"
