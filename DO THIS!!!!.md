@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## DO
 
+- [ ] belajar basic reactjs dalam 1 minggu ( state, props, component, state management )
+- [ ] bikin project web3 (simple)
 
 
 ## Work in Progress
