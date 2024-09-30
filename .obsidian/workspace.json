@@ -35,9 +35,11 @@
             "id": "75d9cda9c7d28929",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "basic-1.png"
+                "file": "Web3 Indive Event/Web Indive Workshop.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basic-1.png",
+                "file": "Web3 Indive Event/Web Indive Workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "basic-1.png",
+                "file": "Web3 Indive Event/Web Indive Workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "basic-1.png"
+                "file": "Web3 Indive Event/Web Indive Workshop.md"
               }
             }
           },
@@ -182,12 +184,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "75d9cda9c7d28929",
+  "active": "469f60ed3ee40497",
   "lastOpenFiles": [
+    "Task TODOOO!!!!.md",
     "README.md",
+    "basic-1.png",
     "DO THIS!!!!.md",
     "phrase wallet ton.md",
-    "Task TODOOO!!!!.md",
     "Excalidraw/Concept Blockchain.md",
     "Untitled 1.md",
     "Content Web3/X/Hasil semalam ngobrol bareng GadoGado Web3.md",
@@ -197,7 +200,6 @@
     "Content Web3/X/awal mula belajar web3.md",
     "Content Web3/X/Kenapa Blockchain bisa jadi Populer dan gimana awal mulanya.md",
     "Content Web3/X/Content Plan.md",
-    "basic-1.png",
     "Web3 Indive Event/Web Indive Workshop.md",
     "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "Web3 Indive Event",
@@ -213,7 +215,6 @@
     "TODOOO!!!! 12-9-2024.md",
     "Fundamentals/What is Ethereum.md",
     "Fundamentals/What is Blockchain.md",
-    "Excalidraw/Drawing 2024-09-27 16.42.41.excalidraw.md",
     "Research Sosmed/X",
     "Research Sosmed",
     "Content Web3/X",
