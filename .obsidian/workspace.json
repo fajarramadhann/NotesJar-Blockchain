@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web3 Indive Event/Web Indive Workshop.md",
+                "file": "Content Web3/X/Content Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+                "file": "Content Web3/X/Content Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+                "file": "Content Web3/X/Content Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md"
+                "file": "Content Web3/X/Content Plan.md"
               }
             }
           },
@@ -206,8 +206,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "469f60ed3ee40497",
+  "active": "f95dfe14c9e7b993",
   "lastOpenFiles": [
+    "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "Untitled 1.md",
     "Web3 Indive Event/Web Indive Workshop.md",
     "Web3 Indive Event",
@@ -233,7 +234,6 @@
     "Fundamentals/What is Ethereum.md",
     "Fundamentals/What is Blockchain.md",
     "Excalidraw/Concept Blockchain.md",
-    "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "README.md",
     "Excalidraw/Drawing 2024-09-27 16.42.41.excalidraw.md",
     "Research Sosmed/X",
