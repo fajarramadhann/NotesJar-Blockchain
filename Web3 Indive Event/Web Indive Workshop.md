@@ -22,12 +22,16 @@ Layer 2 = Base, dll
 		- code
 
 
+basic requirement buat jadi web3
+- kemauan
+- frontend pake react
+- smart contract solidity di jaringan EVM
+- backend nya: nextjs
+- database off chain
+- harus tau data apa aja yg harus di simpen di db off chain dan db on chain
 
-kemauan
-fe pake react
-smart contract solidity di jaringan EVM
-backend nya web3: nextjs
-db off chain
+
+
 
 
 
