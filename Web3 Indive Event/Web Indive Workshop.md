@@ -35,3 +35,4 @@ basic requirement buat jadi web3
 
 
 
+atau nongkrong. Jadi gw pengen banget jadi bagian dari komunitas rame dan keren ini, di mana gw bisa tumbuh bareng orang-orang yang punya passion yang sama. Gabung di PDSDAO OGs ini juga jadi kesempatan buat gw sharing ilmu, ide, dan nongkrong bareng orang-orang yang satu visi. Gue siap commit dan aktif di setiap kegiatan!
