@@ -10,11 +10,5 @@ ethereum node = backend
 
 Web3 = web3 yang berinteraksi dengan blcokcchain melalui smart contract
 
-
-> pw metamask: belajarblokcen69
-> trust wallet: Belajarblokcen69$
-> phrase: soul illegal crop menu chief aisle sad tip inform loyal doctor fine
-
-
 pelajari smart contract eth
 
