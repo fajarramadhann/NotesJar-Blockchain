@@ -12,3 +12,5 @@ Web3 = web3 yang berinteraksi dengan blcokcchain melalui smart contract
 
 pelajari smart contract eth
 
+perta wall
+
