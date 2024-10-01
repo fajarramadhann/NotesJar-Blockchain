@@ -12,5 +12,6 @@ Web3 = web3 yang berinteraksi dengan blcokcchain melalui smart contract
 
 pelajari smart contract eth
 
-perta wall
+perta wallet: testAptosBos666
+suit flavor ginger cotton kitten jacket found special measure mixture february leisure
 
