@@ -184,8 +184,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "75d9cda9c7d28929",
+  "active": "469f60ed3ee40497",
   "lastOpenFiles": [
+    "ICP Blockchain",
+    "APTOS Blockchain",
     "Web3 Indive Event/Web Indive Workshop.md",
     "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "Fundamentals/What is Blockchain.md",
@@ -220,7 +222,6 @@
     "Content Web3/X",
     "Content Web3",
     "BlockDevId x Pelita Bangsa",
-    "Excalidraw",
-    "Fundamentals"
+    "Excalidraw"
   ]
 }
