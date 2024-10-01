@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+                "file": "Web3 Indive Event/Web Indive Workshop.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+                "file": "Web3 Indive Event/Web Indive Workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+                "file": "Web3 Indive Event/Web Indive Workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md"
+                "file": "Web3 Indive Event/Web Indive Workshop.md"
               }
             }
           },
@@ -184,12 +184,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "469f60ed3ee40497",
+  "active": "75d9cda9c7d28929",
   "lastOpenFiles": [
+    "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "ICP Blockchain",
     "APTOS Blockchain",
     "Web3 Indive Event/Web Indive Workshop.md",
-    "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "Fundamentals/What is Blockchain.md",
     "Task TODOOO!!!!.md",
     "Projects",
@@ -221,7 +221,6 @@
     "Research Sosmed",
     "Content Web3/X",
     "Content Web3",
-    "BlockDevId x Pelita Bangsa",
-    "Excalidraw"
+    "BlockDevId x Pelita Bangsa"
   ]
 }
