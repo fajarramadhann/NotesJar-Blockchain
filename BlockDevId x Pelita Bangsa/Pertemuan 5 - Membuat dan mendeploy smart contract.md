@@ -16,4 +16,5 @@ perta wallet: testAptosBos666
 suit flavor ginger cotton kitten jacket found special measure mixture february leisure
 
 #### garapan
-dio network
+deal network
+rweb/rwaf
