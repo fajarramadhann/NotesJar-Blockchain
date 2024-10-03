@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+                "file": "Space-x Web3/Cara Jual diri di Web3.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+                "file": "Space-x Web3/Cara Jual diri di Web3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+                "file": "Space-x Web3/Cara Jual diri di Web3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md"
+                "file": "Space-x Web3/Cara Jual diri di Web3.md"
               }
             }
           },
@@ -184,11 +184,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "469f60ed3ee40497",
+  "active": "75d9cda9c7d28929",
   "lastOpenFiles": [
+    "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+    "Space-x Web3/Cara Jual diri di Web3.md",
     "Space-x Web3",
     "Web3 Indive Event/Web Indive Workshop.md",
-    "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "ICP Blockchain",
     "APTOS Blockchain",
     "Fundamentals/What is Blockchain.md",
@@ -221,7 +222,6 @@
     "Research Sosmed/X",
     "Research Sosmed",
     "Content Web3/X",
-    "Content Web3",
-    "BlockDevId x Pelita Bangsa"
+    "Content Web3"
   ]
 }
