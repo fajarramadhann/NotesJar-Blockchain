@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0dd3797bce647add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APTOS Blockchain/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Space-x Web3/GadoGado Web3 x Pastaman.md",
+                "file": "APTOS Blockchain/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Space-x Web3/GadoGado Web3 x Pastaman.md",
+                "file": "APTOS Blockchain/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Space-x Web3/GadoGado Web3 x Pastaman.md"
+                "file": "APTOS Blockchain/Untitled.md"
               }
             }
           },
@@ -184,10 +196,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "75d9cda9c7d28929",
+  "active": "469f60ed3ee40497",
   "lastOpenFiles": [
-    "Space-x Web3/Cara Jual diri di Web3.md",
     "Space-x Web3/GadoGado Web3 x Pastaman.md",
+    "APTOS Blockchain/Untitled.md",
+    "Space-x Web3/Cara Jual diri di Web3.md",
     "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "Space-x Web3",
     "Web3 Indive Event/Web Indive Workshop.md",
@@ -218,7 +231,6 @@
     "Projects/Project IDEA/DeGive.md",
     "Projects/Project IDEA/DeLancer ( Decentralize Freelancer ).md",
     "Projects/Project IDEA",
-    "Task TVONE.md",
     "Research Sosmed/X",
     "Research Sosmed",
     "Content Web3/X",
