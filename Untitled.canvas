@@ -6,8 +6,7 @@
 		{"id":"c96d0a557a716676","type":"text","text":"confirm pembayaran","x":400,"y":-200,"width":250,"height":50},
 		{"id":"ded0256e2dcc3532","type":"text","text":"backend: cv token ke IDR","x":680,"y":-210,"width":250,"height":60},
 		{"id":"973f00473e755f9c","type":"text","text":"saldo masuk ke akun pemilik QRIS","x":960,"y":-210,"width":250,"height":60},
-		{"id":"eb475c1e08fa9103","x":960,"y":-100,"width":250,"height":60,"type":"text","text":"pemilik qris mau wd"},
-		{"id":"5318789231bf0ae1","x":960,"y":20,"width":250,"height":60,"type":"text","text":"option wd: bank, crypto"}
+		{"id":"9054f18ae76cffbc","x":680,"y":-100,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"6931a6393d94708c","fromNode":"78a7d50a65b3f35a","fromSide":"right","toNode":"cd95134d37840d0b","toSide":"left"},
@@ -15,7 +14,6 @@
 		{"id":"03de12089018dd3f","fromNode":"d1ca950b5fab98de","fromSide":"right","toNode":"c96d0a557a716676","toSide":"left"},
 		{"id":"db0aaa0ab77be38d","fromNode":"c96d0a557a716676","fromSide":"right","toNode":"ded0256e2dcc3532","toSide":"left"},
 		{"id":"22b5fc942d257f11","fromNode":"ded0256e2dcc3532","fromSide":"right","toNode":"973f00473e755f9c","toSide":"left"},
-		{"id":"8945ebf9d2d642ea","fromNode":"973f00473e755f9c","fromSide":"bottom","toNode":"eb475c1e08fa9103","toSide":"top"},
-		{"id":"ceb8ba7e36358cde","fromNode":"eb475c1e08fa9103","fromSide":"bottom","toNode":"5318789231bf0ae1","toSide":"top"}
+		{"id":"2ba10b680958ee82","fromNode":"ded0256e2dcc3532","fromSide":"bottom","toNode":"9054f18ae76cffbc","toSide":"top"}
 	]
 }
