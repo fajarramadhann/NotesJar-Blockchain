@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"78a7d50a65b3f35a","x":-440,"y":-205,"width":250,"height":60,"type":"text","text":"pembeli buka wallet dan open camera"},
+		{"id":"cd95134d37840d0b","x":-160,"y":-205,"width":250,"height":60,"type":"text","text":"scan qr"},
+		{"id":"d1ca950b5fab98de","x":-125,"y":-30,"width":250,"height":50,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"6931a6393d94708c","fromNode":"78a7d50a65b3f35a","fromSide":"right","toNode":"cd95134d37840d0b","toSide":"left"}
+	]
+}
