@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APTOS Blockchain/APTOS HACKATHON NOTES.md",
+                "file": "ICP Blockchain/Hackathon/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APTOS Blockchain/APTOS HACKATHON NOTES.md",
+                "file": "ICP Blockchain/Hackathon/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APTOS Blockchain/APTOS HACKATHON NOTES.md",
+                "file": "ICP Blockchain/Hackathon/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APTOS Blockchain/APTOS HACKATHON NOTES.md"
+                "file": "ICP Blockchain/Hackathon/Untitled.md"
               }
             }
           },
@@ -198,8 +198,10 @@
   },
   "active": "0dd3797bce647add",
   "lastOpenFiles": [
-    "Space-x Web3/GadoGado Web3 x Pastaman.md",
     "APTOS Blockchain/APTOS HACKATHON NOTES.md",
+    "ICP Blockchain/Hackathon/Untitled.md",
+    "ICP Blockchain/Hackathon",
+    "Space-x Web3/GadoGado Web3 x Pastaman.md",
     "Space-x Web3/Cara Jual diri di Web3.md",
     "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "Space-x Web3",
@@ -229,11 +231,9 @@
     "Projects/Post2Earn.md",
     "Projects/Project IDEA/IDEA.md",
     "Projects/Project IDEA/DeGive.md",
-    "Projects/Project IDEA/DeLancer ( Decentralize Freelancer ).md",
     "Projects/Project IDEA",
     "Research Sosmed/X",
     "Research Sosmed",
-    "Content Web3/X",
-    "Content Web3"
+    "Content Web3/X"
   ]
 }
