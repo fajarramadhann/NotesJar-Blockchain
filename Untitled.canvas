@@ -1,16 +1,17 @@
 {
 	"nodes":[
-		{"id":"f00d05f038d3112b","x":747,"y":1,"width":250,"height":60,"type":"text","text":""},
-		{"id":"78a7d50a65b3f35a","x":-440,"y":-205,"width":250,"height":60,"type":"text","text":"pembeli buka wallet dan open camera"},
-		{"id":"cd95134d37840d0b","x":-160,"y":-205,"width":250,"height":60,"type":"text","text":"scan qr"},
-		{"id":"d1ca950b5fab98de","x":120,"y":-200,"width":250,"height":50,"type":"text","text":"pilih token"},
-		{"id":"c96d0a557a716676","x":400,"y":-200,"width":250,"height":50,"type":"text","text":"confirm pembayaran"},
-		{"id":"ded0256e2dcc3532","x":680,"y":-210,"width":250,"height":60,"type":"text","text":""},
-		{"id":"973f00473e755f9c","x":760,"y":0,"width":250,"height":60,"type":"text","text":""}
+		{"id":"78a7d50a65b3f35a","type":"text","text":"pembeli buka wallet dan open camera","x":-440,"y":-205,"width":250,"height":60},
+		{"id":"cd95134d37840d0b","type":"text","text":"scan qr","x":-160,"y":-205,"width":250,"height":60},
+		{"id":"d1ca950b5fab98de","type":"text","text":"pilih token","x":120,"y":-200,"width":250,"height":50},
+		{"id":"c96d0a557a716676","type":"text","text":"confirm pembayaran","x":400,"y":-200,"width":250,"height":50},
+		{"id":"ded0256e2dcc3532","type":"text","text":"backend: cv token ke IDR","x":680,"y":-210,"width":250,"height":60},
+		{"id":"973f00473e755f9c","type":"text","text":"saldo masuk ke akun pemilik QRIS","x":960,"y":-210,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"6931a6393d94708c","fromNode":"78a7d50a65b3f35a","fromSide":"right","toNode":"cd95134d37840d0b","toSide":"left"},
 		{"id":"c69d4679b2d9594d","fromNode":"cd95134d37840d0b","fromSide":"right","toNode":"d1ca950b5fab98de","toSide":"left"},
-		{"id":"03de12089018dd3f","fromNode":"d1ca950b5fab98de","fromSide":"right","toNode":"c96d0a557a716676","toSide":"left"}
+		{"id":"03de12089018dd3f","fromNode":"d1ca950b5fab98de","fromSide":"right","toNode":"c96d0a557a716676","toSide":"left"},
+		{"id":"db0aaa0ab77be38d","fromNode":"c96d0a557a716676","fromSide":"right","toNode":"ded0256e2dcc3532","toSide":"left"},
+		{"id":"22b5fc942d257f11","fromNode":"ded0256e2dcc3532","fromSide":"right","toNode":"973f00473e755f9c","toSide":"left"}
 	]
 }
