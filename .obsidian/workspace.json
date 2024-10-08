@@ -57,9 +57,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "0d0d535e22fc7e48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ICP Blockchain/Hackathon/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "ICP Blockchain/Hackathon/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "ICP Blockchain/Hackathon/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "ICP Blockchain/Hackathon/Untitled.md"
               }
             }
           },
@@ -199,10 +211,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0dd3797bce647add",
+  "active": "469f60ed3ee40497",
   "lastOpenFiles": [
-    "ICP Blockchain/Hackathon/Untitled.md",
+    "Untitled.md",
     "Untitled.canvas",
+    "ICP Blockchain/Hackathon/Untitled.md",
     "APTOS Blockchain/APTOS HACKATHON NOTES.md",
     "ICP Blockchain/Hackathon",
     "Space-x Web3/GadoGado Web3 x Pastaman.md",
@@ -233,7 +246,6 @@
     "Research Sosmed/X/Jam posting.md",
     "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
     "Projects/Post2Earn.md",
-    "Projects/Project IDEA/IDEA.md",
     "Projects/Project IDEA",
     "Research Sosmed/X",
     "Research Sosmed",
