@@ -62,11 +62,14 @@
             "id": "0d0d535e22fc7e48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "ICP Blockchain/Hackathon/Untitled Wallet.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 317.6167664670661,
+                  "y": -125,
+                  "zoom": -0.8570870396879047
+                }
               }
             }
           }
@@ -137,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ICP Blockchain/Hackathon/Untitled Wallet.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ICP Blockchain/Hackathon/Untitled Wallet.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICP Blockchain/Hackathon/Untitled Wallet.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -213,9 +216,9 @@
   },
   "active": "0d0d535e22fc7e48",
   "lastOpenFiles": [
+    "ICP Blockchain/Hackathon/Untitled Wallet.md",
     "Untitled.md",
     "Untitled.canvas",
-    "ICP Blockchain/Hackathon/Untitled Wallet.md",
     "APTOS Blockchain/APTOS HACKATHON NOTES.md",
     "ICP Blockchain/Hackathon",
     "Space-x Web3/GadoGado Web3 x Pastaman.md",
