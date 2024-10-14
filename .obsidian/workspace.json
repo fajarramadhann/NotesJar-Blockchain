@@ -62,14 +62,11 @@
             "id": "0d0d535e22fc7e48",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 317.6167664670661,
-                  "y": -125,
-                  "zoom": -0.8570870396879047
-                }
+                "file": "Lisk x Pelita banga/Senen pertama.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -140,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Lisk x Pelita banga/Senen pertama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Lisk x Pelita banga/Senen pertama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Lisk x Pelita banga/Senen pertama.md"
               }
             }
           },
@@ -214,8 +211,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "469f60ed3ee40497",
+  "active": "0d0d535e22fc7e48",
   "lastOpenFiles": [
+    "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+    "Lisk x Pelita banga/Senen pertama.md",
+    "Lisk x Pelita banga",
     "ICP Blockchain/Hackathon/Untitled Wallet.md",
     "Untitled.md",
     "Untitled.canvas",
@@ -223,7 +223,6 @@
     "ICP Blockchain/Hackathon",
     "Space-x Web3/GadoGado Web3 x Pastaman.md",
     "Space-x Web3/Cara Jual diri di Web3.md",
-    "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "Space-x Web3",
     "Web3 Indive Event/Web Indive Workshop.md",
     "ICP Blockchain",
@@ -251,7 +250,6 @@
     "Projects/Post2Earn.md",
     "Projects/Project IDEA",
     "Research Sosmed/X",
-    "Research Sosmed",
-    "Content Web3/X"
+    "Research Sosmed"
   ]
 }
