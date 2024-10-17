@@ -69,9 +69,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e616eaf5b1b4731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kamu Crypto (Degen atau NgeMicin).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Kamu Crypto (Degen atau NgeMicin).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Kamu Crypto (Degen atau NgeMicin).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Kamu Crypto (Degen atau NgeMicin).md"
               }
             }
           },
@@ -211,13 +223,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0d0d535e22fc7e48",
+  "active": "3e616eaf5b1b4731",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Kamu Crypto (Degen atau NgeMicin).md",
     "ICP Blockchain/Hackathon/Untitled Wallet.md",
     "Lisk x Pelita banga/Senen pertama.md",
     "Web3 Indive Event/Web Indive Workshop.md",
     "README.md",
-    "Untitled.md",
     "Fundamentals/What is Blockchain.md",
     "Fundamentals/What is Ethereum.md",
     "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
@@ -236,7 +249,6 @@
     "DO THIS!!!!.md",
     "phrase wallet ton.md",
     "Excalidraw/Concept Blockchain.md",
-    "Untitled 1.md",
     "Content Web3/X/Hasil semalam ngobrol bareng GadoGado Web3.md",
     "Content Web3/X/Kenapa Web3 beda dari Web2..md",
     "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",

@@ -1,0 +1,4 @@
+Shiller:
+Ticker:
+DCA:
+Screening:
