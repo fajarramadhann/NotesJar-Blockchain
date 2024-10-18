@@ -93,21 +93,9 @@
               "icon": "lucide-file",
               "title": "Kamu Crypto (Degen atau NgeMicin)"
             }
-          },
-          {
-            "id": "398197a8df0d733f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -179,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+                "file": "Kamu Crypto (Degen atau NgeMicin).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pertemuan 5 - Membuat dan mendeploy smart contract"
+              "title": "Backlinks for Kamu Crypto (Degen atau NgeMicin)"
             }
           },
           {
@@ -198,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+                "file": "Kamu Crypto (Degen atau NgeMicin).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pertemuan 5 - Membuat dan mendeploy smart contract"
+              "title": "Outgoing links from Kamu Crypto (Degen atau NgeMicin)"
             }
           },
           {
@@ -225,10 +213,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md"
+                "file": "Kamu Crypto (Degen atau NgeMicin).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pertemuan 5 - Membuat dan mendeploy smart contract"
+              "title": "Outline of Kamu Crypto (Degen atau NgeMicin)"
             }
           },
           {
@@ -263,7 +251,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "398197a8df0d733f",
+  "active": "3e616eaf5b1b4731",
   "lastOpenFiles": [
     "Untitled.md",
     "Kamu Crypto (Degen atau NgeMicin).md",
