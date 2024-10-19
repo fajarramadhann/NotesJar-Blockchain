@@ -93,9 +93,23 @@
               "icon": "lucide-file",
               "title": "Kamu Crypto (Degen atau NgeMicin)"
             }
+          },
+          {
+            "id": "858d85ff0c3a0e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stylus x Orbit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stylus x Orbit"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -251,10 +265,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3e616eaf5b1b4731",
+  "active": "858d85ff0c3a0e2c",
   "lastOpenFiles": [
-    "Untitled.md",
     "Kamu Crypto (Degen atau NgeMicin).md",
+    "Stylus x Orbit.md",
+    "Untitled.md",
     "ICP Blockchain/Hackathon/Untitled Wallet.md",
     "Lisk x Pelita banga/Senen pertama.md",
     "Web3 Indive Event/Web Indive Workshop.md",
@@ -287,7 +302,6 @@
     "Web3 Indive Event",
     "Research Sosmed/X/Jam posting.md",
     "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
-    "Projects/Post2Earn.md",
     "Projects/Project IDEA",
     "Research Sosmed/X",
     "Research Sosmed"
