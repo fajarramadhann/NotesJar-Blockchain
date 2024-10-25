@@ -5,3 +5,10 @@ goalsnya: familiar dengan konsep rust seperti structs, traits, borrowing, object
 
 
 detail task:
+
+
+
+
+
+#### what i've learned
+`i64` adalah type data integer yg beri
