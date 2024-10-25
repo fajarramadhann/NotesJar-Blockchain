@@ -1,2 +1,2 @@
 Apa tugasnya? 
-membuat kalku
+bikin kalkulator dan mengimplementasikan
