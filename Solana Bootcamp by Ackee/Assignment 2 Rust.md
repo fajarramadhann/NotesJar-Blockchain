@@ -1,0 +1,2 @@
+Apa tugasnya? 
+membuat kalku
