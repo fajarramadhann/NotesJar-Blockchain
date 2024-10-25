@@ -11,4 +11,4 @@ detail task:
 
 
 #### what i've learned
-`i64` adalah type data integer yg beri
+`i64` adalah type data integer 64 bit
