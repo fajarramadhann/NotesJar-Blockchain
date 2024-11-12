@@ -112,12 +112,14 @@
             "id": "cf3a5472a67b4f15",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md"
+                "file": "Web3 Indive Event/Web Indive Workshop.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-09-18 15.38.01.excalidraw"
+              "icon": "lucide-file",
+              "title": "Web Indive Workshop"
             }
           }
         ],
@@ -279,6 +281,15 @@
   },
   "active": "cf3a5472a67b4f15",
   "lastOpenFiles": [
+    "Space-x Web3/GadoGado Web3 x Pastaman.md",
+    "Space-x Web3/Cara Jual diri di Web3.md",
+    "Solana Bootcamp by Ackee/Assignment 2 Rust.md",
+    "Lisk x Pelita banga/Senen pertama.md",
+    "ICP Blockchain/Hackathon/Qris Wallet Crypto.md",
+    "Fundamentals/What is Ethereum.md",
+    "Fundamentals/What is Blockchain.md",
+    "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-25 21.59.07.excalidraw.md",
     "Excalidraw/Concept Blockchain.md",
     "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "APTOS Blockchain/APTOS HACKATHON NOTES.md",
@@ -286,21 +297,13 @@
     "Solidity Journey",
     "Untitled.canvas",
     "Rock paper.md",
-    "Solana Bootcamp by Ackee/Assignment 2 Rust.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Excalidraw/Drawing 2024-10-25 21.59.07.excalidraw.md",
     "Solana Bootcamp by Ackee",
-    "ICP Blockchain/Hackathon/Untitled Wallet.md",
-    "Lisk x Pelita banga/Senen pertama.md",
     "Web3 Indive Event/Web Indive Workshop.md",
     "README.md",
-    "Fundamentals/What is Blockchain.md",
-    "Fundamentals/What is Ethereum.md",
     "Lisk x Pelita banga",
     "ICP Blockchain/Hackathon",
-    "Space-x Web3/GadoGado Web3 x Pastaman.md",
-    "Space-x Web3/Cara Jual diri di Web3.md",
     "Space-x Web3",
     "ICP Blockchain",
     "APTOS Blockchain",
