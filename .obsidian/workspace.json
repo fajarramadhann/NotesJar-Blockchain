@@ -112,14 +112,17 @@
             "id": "cf3a5472a67b4f15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Web3 Indive Event/Web Indive Workshop.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 385,
+                  "y": -125,
+                  "zoom": -0.8570870396879047
+                }
               },
-              "icon": "lucide-file",
-              "title": "Web Indive Workshop"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -281,6 +284,9 @@
   },
   "active": "cf3a5472a67b4f15",
   "lastOpenFiles": [
+    "README.md",
+    "Kamus Crypto (Degen atau NgeMicin).md",
+    "Web3 Indive Event/Web Indive Workshop.md",
     "Space-x Web3/GadoGado Web3 x Pastaman.md",
     "Space-x Web3/Cara Jual diri di Web3.md",
     "Solana Bootcamp by Ackee/Assignment 2 Rust.md",
@@ -293,15 +299,12 @@
     "Excalidraw/Concept Blockchain.md",
     "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "APTOS Blockchain/APTOS HACKATHON NOTES.md",
-    "Kamus Crypto (Degen atau NgeMicin).md",
     "Solidity Journey",
     "Untitled.canvas",
     "Rock paper.md",
     "Untitled.md",
     "Untitled 1.md",
     "Solana Bootcamp by Ackee",
-    "Web3 Indive Event/Web Indive Workshop.md",
-    "README.md",
     "Lisk x Pelita banga",
     "ICP Blockchain/Hackathon",
     "Space-x Web3",
