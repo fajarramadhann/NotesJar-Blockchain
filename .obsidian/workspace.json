@@ -112,17 +112,14 @@
             "id": "cf3a5472a67b4f15",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 385,
-                  "y": -125,
-                  "zoom": -0.8570870396879047
-                }
+                "file": "MiniApps Tele Polygon/ZkEVM x zkVM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "ZkEVM x zkVM"
             }
           }
         ],
@@ -282,8 +279,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "469f60ed3ee40497",
+  "active": "cf3a5472a67b4f15",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "MiniApps Tele Polygon/ZkEVM x zkVM.md",
     "MiniApps Tele Polygon",
     "README.md",
     "Kamus Crypto (Degen atau NgeMicin).md",
@@ -301,7 +300,6 @@
     "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
     "APTOS Blockchain/APTOS HACKATHON NOTES.md",
     "Solidity Journey",
-    "Untitled.canvas",
     "Rock paper.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -319,8 +317,6 @@
     "Content Web3/X/Hasil semalam ngobrol bareng GadoGado Web3.md",
     "Content Web3/X/Kenapa Web3 beda dari Web2..md",
     "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
-    "Content Web3/X/20 istilah web3 blockchain.md",
-    "Web3 Indive Event",
-    "Projects/Project IDEA"
+    "Web3 Indive Event"
   ]
 }
