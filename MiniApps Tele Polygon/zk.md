@@ -5,5 +5,5 @@ jadi apa itu zero knowledge? zero knowledge adalah cara bagaimana kita membuktik
 contoh nya dalam sebuah brankas:
 ada 2 orang dalam contoh kasus ini, 1 sebagai prover dan 1 sebagai verifier. prover ngasih tau ke verifier kalo dia punya kunci password untuk buka brankas tersebut tanpa ngasih tau kunci password tersebut, gimana caranya verifier bisa percaya prover punya kunci password tersebut kalo ga ngasih tau kunci passwordnya? prover meminta sebuah kertas dari verifier untuk dimasukkan ke dalam brankas tersebut, lalu kertas tersebut pun dimasukkan ke dalam brankas tersebut, voilaa! verifier percaya kalo prover punya kunci password brankas tersebut karena dia memasukkan kertas tersebut kedalam brankas tanpa ngasih tau kunci passwordnya ke verifier.
 
-secara dasar kurang lebih seperti itu gambaran dan penjelasan singkat terkait zk atau zero knowledge, tapi zk ini digunakan
+secara dasar kurang lebih seperti itu gambaran dan penjelasan singkat terkait zk atau zero knowledge, tapi kali ini zk ini digunakan untuk penggunaan dalam blockchain yang dimana banyak proses kompleks
 
