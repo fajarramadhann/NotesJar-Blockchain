@@ -11,8 +11,6 @@ Blockchain bisa disebut juga sebagai buku besar atau ledger, karena Blockchain a
 
 > Nodes bisa disebut sebagai komputer.
 
-
-
 setiap transaksi/data baru yang dibuat akan melewati proses verifikasi dan jika sudah valid hash dari block sebelumnya akan di kombinasikan dengan block trx/data baru
 
 Visual version: [[Concept Blockchain]]
