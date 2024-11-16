@@ -1,9 +1,3 @@
-1. Stack: store 32 byte words
-2. Memory
-3. Calldata
-4. Storage
-5. Code
-6. Logs
 
 understanding and mastering the evm is a huge huge part of going from a beginner slash intermediate blockchain developer or security auditor to becoming a really fully fledged Advanced blockchain engineer or security researcher and so that is exactly what we're going to do today we're going to lay out a complete guide to the evm everything you need to know the structure of the evm how it actually ends up working out when we call a function and even some very sneaky sneaky gas optimization tips along the way so if you're looking for
 
