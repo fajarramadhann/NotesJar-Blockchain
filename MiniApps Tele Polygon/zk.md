@@ -17,7 +17,7 @@ Zero-Knowledge Proof (ZKP) adalah sebuah metode kriptografi yang memungkinkan se
 
 ### Contoh Sederhana: Brankas
 1. **Prover** bilang, "Gue punya password untuk buka brankas ini."
-2. **Verifier** ga percaya dan pengen bukti, tapi dia perlu tau password brankas nya apa.
+2. **Verifier** ga percaya dan pengen bukti, tapi dia gak perlu tau password brankas nya apa.
 3. **Prover** bilang, "Kasih gue sesuatu buat gue simpen di dalam brankas ini sebagai bukti."
 4. **Verifier** kasih kertas, dan prover berhasil masukkin kertas ke dalam brankas. Verifier ngecek isi brankas abis itu.
 5. Karena kertas itu sekarang ada di dalam brankas, verifier percaya bahwa prover benar-benar punya password brankas, **tanpa tahu apa password-nya**.
