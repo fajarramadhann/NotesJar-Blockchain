@@ -21,3 +21,8 @@ Zero-Knowledge Proof (ZKP) adalah sebuah metode kriptografi yang memungkinkan se
 3. **Prover** bilang, "Kasih gue sesuatu buat gue simpen di dalam brankas ini sebagai bukti."
 4. **Verifier** kasih kertas, dan prover berhasil masukkin kertas ke dalam brankas. Verifier ngecek isi brankas abis itu.
 5. Karena kertas itu sekarang ada di dalam brankas, verifier percaya bahwa prover benar-benar punya password brankas, **tanpa tahu apa password-nya**.
+
+### Zero-Knowledge di Blockchain
+Dalam blockchain, ZKP sering dipake buat **privacy** dan **efisiensi transaksi**. Contohnya:
+- **Privacy**: Lu bisa membuktikan bahwa lo punya saldo cukup buat transaksi **tanpa ngasih tau saldo lo sebenarnya**.
+- **Scalability**: ZKP juga dipakai buat nge-validasi banyak transaksi dalam satu bukti kecil (contoh: zk-rollups di Ethereum).
