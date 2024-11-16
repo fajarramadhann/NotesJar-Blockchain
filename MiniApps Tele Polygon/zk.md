@@ -7,3 +7,20 @@ ada 2 orang dalam contoh kasus ini, 1 sebagai prover dan 1 sebagai verifier. pro
 
 secara dasar kurang lebih seperti itu gambaran dan penjelasan singkat terkait zk atau zero knowledge, tapi kali ini zk ini digunakan untuk penggunaan dalam blockchain yang dimana banyak proses kompleks
 
+---
+
+### Apa itu Zero-Knowledge?
+
+Zero-Knowledge Proof (ZKP) adalah sebuah metode kriptografi yang memungkinkan seseorang (prover) membuktikan ke orang lain (verifier) bahwa ia memiliki atau tahu sesuatu **tanpa harus ngasih tau detail informasi tersebut**. kaya aneh sih, tapi aslinya keren dan bermanfaat banget, terutama di dunia blockchain.
+
+---
+
+### Contoh Sederhana: Brankas
+
+Bayangin lagi kasus lo tadi, tapi lebih spesifik:
+
+1. **Prover** bilang, "Gue punya password untuk buka brankas ini."
+2. **Verifier** skeptis dan pengen bukti, tapi dia nggak mau tahu apa password-nya.
+3. **Prover** bilang, "Kasih gue sesuatu buat gue simpen di dalam brankas ini sebagai bukti."
+4. **Verifier** kasih kertas, dan prover berhasil masukkan kertas ke dalam brankas. Verifier ngecek isi brankas setelah itu.
+5. Karena kertas itu sekarang ada di dalam brankas, verifier percaya bahwa prover benar-benar punya password brankas, **tanpa tahu apa password-nya**.
