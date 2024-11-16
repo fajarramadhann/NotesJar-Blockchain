@@ -114,12 +114,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web3 Indive Event/Web Indive Workshop.md",
+                "file": "MiniApps Tele Polygon/Polygon zkEVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Indive Workshop"
+              "title": "Polygon zkEVM"
             }
           }
         ],
@@ -281,6 +281,8 @@
   },
   "active": "cf3a5472a67b4f15",
   "lastOpenFiles": [
+    "Web3 Indive Event/Web Indive Workshop.md",
+    "MiniApps Tele Polygon/Polygon zkEVM.md",
     "Space-x Web3/GadoGado Web3 x Pastaman.md",
     "Space-x Web3/Cara Jual diri di Web3.md",
     "Excalidraw/Concept Blockchain.md",
@@ -294,7 +296,6 @@
     "MiniApps Tele Polygon",
     "README.md",
     "Kamus Crypto (Degen atau NgeMicin).md",
-    "Web3 Indive Event/Web Indive Workshop.md",
     "Solana Bootcamp by Ackee/Assignment 2 Rust.md",
     "Lisk x Pelita banga/Senen pertama.md",
     "ICP Blockchain/Hackathon/Qris Wallet Crypto.md",
@@ -317,7 +318,6 @@
     "phrase wallet ton.md",
     "Content Web3/X/Hasil semalam ngobrol bareng GadoGado Web3.md",
     "Content Web3/X/Kenapa Web3 beda dari Web2..md",
-    "Content Web3/X/Nyemplung ke Web3 dan Blockchain.md",
     "Web3 Indive Event"
   ]
 }
