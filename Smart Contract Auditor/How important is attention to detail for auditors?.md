@@ -1,4 +1,5 @@
 ![Hackoon logo with white background](https://bugs.immunefi.com/images/hackoon-logo-white.jpg)
+
 Attention to detail is **crucial** for auditors in the Web3 and smart contract space for several reasons:
 
 1. **Identifying Vulnerabilities**: Small mistakes or overlooked lines of code can lead to significant vulnerabilities, such as reentrancy attacks or integer overflows. A meticulous review can catch these issues before they are exploited.
