@@ -1,7 +1,6 @@
 To effectively read and audit a smart contract, follow these steps:
 
 1. **Understand the Purpose**: Begin by understanding the contract's intended functionality. Review the documentation or comments within the code to grasp its goals.
-    
 2. **Review the Code Structure**: Familiarize yourself with the structure of the smart contract. Look for key components such as:
     
     - **State Variables**: These hold the contract's data.
