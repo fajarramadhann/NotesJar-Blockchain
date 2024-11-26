@@ -114,12 +114,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVM/EVM Stuff.md",
-                "mode": "preview",
+                "file": "Smart Contract Auditor/Untitled.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EVM Stuff"
+              "title": "Untitled"
             }
           }
         ],
@@ -279,11 +279,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "469f60ed3ee40497",
+  "active": "cf3a5472a67b4f15",
   "lastOpenFiles": [
+    "EVM/EVM Stuff.md",
+    "Smart Contract Auditor/Untitled.md",
     "Smart Contract Auditor",
     "MiniApps Tele Polygon/zk.md",
-    "EVM/EVM Stuff.md",
     "EVM/Untitled",
     "EVM",
     "MiniApps Tele Polygon/Polygon zkEVM.md",
@@ -314,7 +315,6 @@
     "ICP Blockchain/Hackathon",
     "Space-x Web3",
     "ICP Blockchain",
-    "APTOS Blockchain",
     "Task TODOOO!!!!.md",
     "basic-1.png",
     "DO THIS!!!!.md",
