@@ -30,10 +30,6 @@ After accumulating some transactions, our AMM contract, CarrierBag.sol, will hol
 
 When the contract contains 4 times of Real Eth compare to Virtual Eth (ie: 1 Virtual ETH and 4 Real ETH from transactions) or has 200 million tokens left, it will activate the Uniswap process.
 
-## 
-
-[](https://docs.memehunter.wtf/foundations/liquidity-pool#what-is-the-uniswap-process)
-
 ## What is the Uniswap process
 
 **Our CarrierBag will then transfer all the accumulated ETH from transactions and 160 million tokens to Uniswap V3 (4/5 of token left within the pool)**
@@ -42,13 +38,10 @@ Unlike other platforms that take a percentage of ETH or Solana (typically 5-10 S
 
 We store only 160 million tokens (instead of 200 million) or 4/5 of total token left, to maintain the token's price stability when they are moved to Uniswap, because the real ETH in the pool is only 4/5 out of the reserve because 1/5 is virtual ETH. This strategy discourages dumping before the Uniswap transfer, as there is no incentive for it. Check Calculation Below
 
-## 
-
-[](https://docs.memehunter.wtf/foundations/liquidity-pool#calculation-for-fullfilling-the-bag)
-
-Calculation for fullfilling the bag
+## Calculation for fullfilling the bag
 
 The initial market cap will be set around 2800-3200, this is done so, by adjusting virtual ETH reserve to current price of Ethereum per 1 billion coins. after 80% of the supply being sold, there will only be 20% token remaining which is 200 Million, with amount of Real Eth accrued is 4 Times of virtual ETH. which will resulted Market Cap around $70000-$80000
+
 
 Problem that they solve:
 1. Many people got scammed by buying token that they can't sell _(Honeypot)_
