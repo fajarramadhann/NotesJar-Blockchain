@@ -114,12 +114,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Smart Contract Auditor/A basic that must know for auditor.md",
+                "file": "Smart Contract Auditor/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A basic that must know for auditor"
+              "title": "Untitled"
             }
           }
         ],
@@ -281,8 +281,10 @@
   },
   "active": "cf3a5472a67b4f15",
   "lastOpenFiles": [
-    "Smart Contract Auditor/How to read a Smart Contract to Audit?.md",
+    "Smart Contract Auditor/Key components to focus on in Audits.md",
+    "Smart Contract Auditor/Untitled.md",
     "Smart Contract Auditor/A basic that must know for auditor.md",
+    "Smart Contract Auditor/How to read a Smart Contract to Audit?.md",
     "EVM/EVM Stuff.md",
     "Smart Contract Auditor",
     "MiniApps Tele Polygon/zk.md",
@@ -316,8 +318,6 @@
     "ICP Blockchain/Hackathon",
     "Space-x Web3",
     "ICP Blockchain",
-    "Task TODOOO!!!!.md",
-    "basic-1.png",
-    "DO THIS!!!!.md"
+    "basic-1.png"
   ]
 }
