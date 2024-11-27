@@ -128,12 +128,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bonding Curve.md",
+                "file": "MiniApps Tele Polygon/Smart Contract Requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bonding Curve"
+              "title": "Smart Contract Requirements"
             }
           }
         ],
@@ -295,8 +295,9 @@
   },
   "active": "3fc802cb0389561d",
   "lastOpenFiles": [
+    "MiniApps Tele Polygon/Bonding Curve.md",
+    "MiniApps Tele Polygon/Smart Contract Requirements.md",
     "MiniApps Tele Polygon/Polygon, whats thatttt.md",
-    "Bonding Curve.md",
     "MiniApps Tele Polygon/Polygon zkEVM.md",
     "MiniApps Tele Polygon/zk.md",
     "Smart Contract Auditor/How important is attention to detail for auditors?.md",
@@ -325,7 +326,6 @@
     "Solana Bootcamp by Ackee/Assignment 2 Rust.md",
     "Lisk x Pelita banga/Senen pertama.md",
     "ICP Blockchain/Hackathon/Qris Wallet Crypto.md",
-    "Excalidraw/Drawing 2024-09-18 15.38.01.excalidraw.md",
     "Solidity Journey",
     "Solana Bootcamp by Ackee",
     "Lisk x Pelita banga",
