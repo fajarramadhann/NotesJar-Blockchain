@@ -5,5 +5,5 @@
 4. Default supply 1B (Billion)
 5. Virtual Liquidity?
 
-
+set bonding curve target, kalo tercapai migrate token nya
 
