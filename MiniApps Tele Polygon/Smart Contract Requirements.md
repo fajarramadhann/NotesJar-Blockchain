@@ -7,3 +7,6 @@
 
 set bonding curve target, kalo tercapai migrate token nya
 
+
+
+

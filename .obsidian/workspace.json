@@ -128,16 +128,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MiniApps Tele Polygon/Smart Contract Requirements.md",
+                "file": "Kamus Crypto (Degen atau NgeMicin).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Smart Contract Requirements"
+              "title": "Kamus Crypto (Degen atau NgeMicin)"
+            }
+          },
+          {
+            "id": "8db57b939cc08bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -193,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "cae5c2f32de7ce1f",
@@ -294,13 +307,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3fc802cb0389561d",
+  "active": "8db57b939cc08bca",
   "lastOpenFiles": [
-    "MiniApps Tele Polygon/Bonding Curve.md",
-    "MiniApps Tele Polygon/Smart Contract Requirements.md",
+    "Kamus Crypto (Degen atau NgeMicin).md",
+    "Untitled.md",
     "MiniApps Tele Polygon/Polygon, whats thatttt.md",
-    "MiniApps Tele Polygon/Polygon zkEVM.md",
+    "MiniApps Tele Polygon/Smart Contract Requirements.md",
     "MiniApps Tele Polygon/zk.md",
+    "MiniApps Tele Polygon/Bonding Curve.md",
+    "MiniApps Tele Polygon/Polygon zkEVM.md",
     "Smart Contract Auditor/How important is attention to detail for auditors?.md",
     "Smart Contract Auditor/Technical skills for Auditors.md",
     "Smart Contract Auditor/How to identify Vuln in Smart Contract.md",
@@ -323,10 +338,8 @@
     "Untitled.canvas",
     "MiniApps Tele Polygon",
     "README.md",
-    "Kamus Crypto (Degen atau NgeMicin).md",
     "Solana Bootcamp by Ackee/Assignment 2 Rust.md",
     "Lisk x Pelita banga/Senen pertama.md",
-    "ICP Blockchain/Hackathon/Qris Wallet Crypto.md",
     "Solidity Journey",
     "Solana Bootcamp by Ackee",
     "Lisk x Pelita banga",
