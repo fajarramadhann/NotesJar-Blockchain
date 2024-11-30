@@ -1,1 +1,2 @@
 ## zkDatabase
+Pada dasarnya
