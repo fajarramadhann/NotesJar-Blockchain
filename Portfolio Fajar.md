@@ -15,3 +15,6 @@ Link to repository: https://github.com/fajarramadhann/MentChain
 ### **SiHadir**: Website Rekap Absensi Berbasis IoT untuk Otomasi Data Kehadiran Guru Sekolah
 
 ![[Screenshot from 2024-12-02 15-15-55.png]]
+
+![[Screenshot from 2024-12-02 15-17-13.png]]
+
