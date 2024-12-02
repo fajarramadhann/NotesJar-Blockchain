@@ -18,3 +18,4 @@ Link to repository: https://github.com/fajarramadhann/MentChain
 
 ![[Screenshot from 2024-12-02 15-17-13.png]]
 
+![[foto-absensi-iot.jpg]]
