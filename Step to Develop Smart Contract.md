@@ -58,3 +58,7 @@ Run testing:
 ```bash
 npx hardhat test
 ```
+
+
+### 5. Deploy to Testnet
+Setup network config in Hard
