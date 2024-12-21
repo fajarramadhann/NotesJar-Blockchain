@@ -12,4 +12,7 @@ Before start code, explain what the requirement for contract, like
 - Use hardhat or Foundry
 
 ### 3. Develop Smart Contract
-Write smart contract with modular and DRY pri
+Write smart contract with modular and DRY principle, for example create ERC20 token:
+```solidity
+// SPDX-License
+```
