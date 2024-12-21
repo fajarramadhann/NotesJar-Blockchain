@@ -100,4 +100,4 @@ Soon
 - Make sure gas usage optimal with tools like **Gas Reporter**
 
 ### 8. Mainnet Deploy
-If sure its safe and good, deploy to mainnet ETH or Laye
+If sure its safe and good, deploy to mainnet ETH or Layer 2 like polygon, arbitrum, etc
