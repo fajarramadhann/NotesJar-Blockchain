@@ -28,4 +28,9 @@ contract MyToken is ERC20 {
 ```
 
 **Pro TIps**:
-- Use openzeppelin for standard
+- Use openzeppelin for standard feature(e.g., ERC20, AccessControl)
+- Add modifier to check permission or limitations
+
+### 4. Testing
+Before deploy, always test your contract
+- 
