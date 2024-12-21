@@ -33,4 +33,7 @@ contract MyToken is ERC20 {
 
 ### 4. Testing
 Before deploy, always test your contract
-- 
+- Use framework like **Mocha** and **Chai** in Hardhat
+- Write unit test for all important function, include edge case
+
+Example simple test file for `MyToken` 
