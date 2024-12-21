@@ -95,6 +95,9 @@ main().catch((error) => {
 ### 6. Verify Contract (optional)
 Soon
 
-### Audit and Optimization 
+### 7. Audit and Optimization 
 - Use tools like MythX or Slither to check vulnerability
-- 
+- Make sure gas usage optimal with tools like **Gas Reporter**
+
+### 8. Mainnet Deploy
+If sure its safe and good, deploy to mainnet ETH or Laye
