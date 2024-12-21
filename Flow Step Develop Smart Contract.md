@@ -36,4 +36,25 @@ Before deploy, always test your contract
 - Use framework like **Mocha** and **Chai** in Hardhat
 - Write unit test for all important function, include edge case
 
-Example simple test file for `MyToken` 
+Example simple test file for `MyToken`/`MyToken.test.js` :
+```js
+const { expect } = require("chai");
+
+describe("MyToken", function () {
+  it("Should mint initial supply to owner", async function () {
+    const [owner] = await ethers.getSigners();
+    const MyToken = await ethers.getContractFactory("MyToken");
+    const token = await MyToken.deploy();
+    await token.deployed();
+
+    expect(await token.balanceOf(owner.address)).to.equal(
+      ethers.utils.parseUnits("1000", 18)
+    );
+  });
+});
+```
+
+Run testing:
+```bash
+npx hardhat test
+```
