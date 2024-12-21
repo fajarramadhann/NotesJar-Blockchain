@@ -78,3 +78,23 @@ module.exports = {
 ```
 
 Script deploy `deploy.js`:
+```js
+async function main() {
+  const MyToken = await ethers.getContractFactory("MyToken");
+  const token = await MyToken.deploy();
+  await token.deployed();
+  console.log(`Token deployed to: ${token.address}`);
+}
+
+main().catch((error) => {
+  console.error(error);
+  process.exitCode = 1;
+});
+```
+
+### 6. Verify Contract (optional)
+Soon
+
+### Audit and Optimization 
+- Use tools like MythX or Slither to check vulnerability
+- 
