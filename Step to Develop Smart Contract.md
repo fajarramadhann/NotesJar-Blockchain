@@ -61,4 +61,20 @@ npx hardhat test
 
 
 ### 5. Deploy to Testnet
-Setup network config in Hard
+Setup network config on Hardhat, and then deploy to network/chain like **Goerli** or **Sepolia**.
+
+```js
+require("@nomiclabs/hardhat-ethers");
+
+module.exports = {
+  networks: {
+    sepolia: {
+      url: "https://eth-sepolia.alchemyapi.io/v2/YOUR_ALCHEMY_API_KEY",
+      accounts: [`0x${YOUR_PRIVATE_KEY}`],
+    },
+  },
+  solidity: "0.8.0",
+};
+```
+
+Script deploy `deploy.js`:
